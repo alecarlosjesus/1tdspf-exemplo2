@@ -1,2 +1,2 @@
 "Arquivo de teste"
-"alteração"
+"nova alteração 1"
